@@ -1,0 +1,6 @@
+# info_sample.yml
+username  : "username"
+password  : "password"
+user      : "user"
+project   : "project"
+repo_path : "path"
